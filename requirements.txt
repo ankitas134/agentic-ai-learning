@@ -11,4 +11,5 @@ langsmith
 tavily-python
 ipykernel
 pydantic
+langchain_tavily
 
